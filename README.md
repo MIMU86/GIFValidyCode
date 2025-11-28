@@ -1,0 +1,2 @@
+# GIFValidyCode
+GIF ValidyCode
